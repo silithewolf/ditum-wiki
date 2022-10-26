@@ -1,11 +1,7 @@
 ---
 slug: das-ditum-wiki-geht-live
 title: Das DiTuM-Wiki geht live!
-authors:
-  name: Silas Wolf
-  title: Softwareentwickler
-  url: https://silaswolf.com/
-  image_url: https://www.silaswolf.com/silas-wolf.JPG
+authors: silaswolf
 tags: [ditum, willkommen]
 ---
 
